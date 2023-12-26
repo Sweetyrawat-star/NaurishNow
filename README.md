@@ -4,13 +4,18 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This app is food delivery app with add to cart and pay fr your food.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+#ScreenShot of App
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+|                                                                   Nourish Now                                                                      |                                                                             
+ <img width alt="Screen Shot 2020-09-17 at 3 26 13 PM" src="https://github.com/Sweetyrawat-star/NaurishNow/assets/57385799/b62f9b98-4a01-4a7c-8aef-b91e82d539de.png">
+
+<img alt="Screen Shot 2020-09-17 at 3 35 48 PM" src="https://github.com/Sweetyrawat-star/NaurishNow/assets/57385799/10e6df3f-19b2-44bf-9bd3-7cf22a194533.png">
+
+
+
+
+
+
